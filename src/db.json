@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Mujtaba Hussain",
+      "phone": "03028577467",
+      "email": "mujtaba51472@gmail.com",
+      "address": "lahore",
+      "id": 1
+    },
+    {
+      "name": "saim khan",
+      "phone": "03028577467",
+      "email": "Saimalikhan959@gmail.com",
+      "address": "lahore",
+      "id": 2
+    }
+  ]
+}

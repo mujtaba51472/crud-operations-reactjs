@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Mujtaba Hussain",
+      "username": "joker",
+      "email": "mujtaba51472@gmail.com",
+      "phone": "03028577467",
+      "id": 1
+    },
+    {
+      "name": " Hassan",
+      "username": "",
+      "email": "",
+      "phone": "",
+      "id": 2
+    },
+    {
+      "name": "Shehzad Hussain",
+      "username": "admin",
+      "email": "mujtaba51472@gmail.com",
+      "phone": "03028577467",
+      "id": 3
+    }
+  ]
+}
